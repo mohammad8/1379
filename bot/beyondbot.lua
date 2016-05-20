@@ -292,7 +292,7 @@ function create_config( )
     "antispam_pv",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {163402568},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎Tele Beyond V4.5😎
